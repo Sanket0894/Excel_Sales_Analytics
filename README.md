@@ -2,9 +2,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a 
+    **1.** Create a Sales report
 
-    **2.** Conduct a comprehensive comparison between _
+    **2.** Conduct a comprehensive comparison between last years sales & finance performance
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 

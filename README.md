@@ -21,10 +21,12 @@
 
    **2.** Create Profit and Loss (P&L) reports by 
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders like
+<img width="392" alt="Screenshot 2023-09-07 211511" src="https://github.com/Sanket0894/Excel_Sales_Finance_Analytics/assets/131572641/3260d860-18e1-4e19-a931-1d6f5b39babb">
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-https://github.com/Sanket0894/Excel_Sales_Finance_Analytics/blob/main/Customer_Performance_Report.pdf
+<img width="408" alt="Screenshot 2023-09-07 211036" src="https://github.com/Sanket0894/Excel_Sales_Finance_Analytics/assets/131572641/b18bcfc9-047d-480e-9cd4-c655459e1661">
+
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
